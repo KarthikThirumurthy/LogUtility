@@ -1,4 +1,4 @@
-package com.karthik.mmt.ILogService;
+package com.karthikThirumurthy.mmt.ILogService;
 
 public interface ILogService {
 

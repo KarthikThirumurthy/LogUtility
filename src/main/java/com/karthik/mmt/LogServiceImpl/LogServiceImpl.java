@@ -1,6 +1,6 @@
 package com.karthik.mmt.LogServiceImpl;
 
-import com.karthik.mmt.ILogService.ILogService;
+import com.karthikThirumurthy.mmt.ILogService.ILogService;
 
 public class LogServiceImpl implements ILogService {
 

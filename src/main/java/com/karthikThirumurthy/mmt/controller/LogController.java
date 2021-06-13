@@ -3,7 +3,7 @@ package com.karthikThirumurthy.mmt.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.karthik.mmt.ILogService.ILogService;
+import com.karthikThirumurthy.mmt.ILogService.ILogService;
 
 public class LogController {
 
